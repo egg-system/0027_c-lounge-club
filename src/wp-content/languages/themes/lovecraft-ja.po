@@ -1,0 +1,311 @@
+# Translation of Themes - Lovecraft in Japanese
+# This file is distributed under the same license as the Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-27 10:25:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Lovecraft\n"
+
+#. Theme Name of the plugin/theme
+msgid "Lovecraft"
+msgstr "Lovecraft"
+
+#. Description of the plugin/theme
+msgid "Lovecraft is a beautiful two-column theme for bloggers. It features a responsive design, great typography, a full-width header image (which is replaced with the post thumbnail on single posts/pages), custom accent color support, custom logo support, editor style support, a Flickr widget, recent posts and recent comments widgets with thumbnails, and a full-width template. Included translations: Swedish/svenska."
+msgstr "Lovecraft はブロガーのための美しい2カラムテーマです。レスポンシブデザイン、素晴らしい写真使い、全幅ヘッダー画像 (個別投稿または固定ページのアイキャッチ画像を置き換えます)、カスタマイズ可能なアクセントカラー対応、カスタムロゴ対応、エディタ画面のスタイル対応、Flickr ウィジェットやサムネイル付きの最新の投稿、最新のコメントウィジェット、全幅テンプレートの機能があります。スイス語対応済みです。"
+
+#: widgets/recent-posts.php:147
+msgid "Number of posts to display"
+msgstr "表示する最新の投稿の数"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page Template"
+msgstr "全幅ページテンプレート"
+
+#: widgets/recent-comments.php:114
+msgid "Number of comments to display"
+msgstr "表示するコメント数"
+
+#: widgets/recent-comments.php:116 widgets/recent-posts.php:149
+msgid "Defaults to 5 if empty"
+msgstr "もし設定されていない場合のデフォルト値は5です"
+
+#: widgets/recent-posts.php:6
+msgid "Displays recent blog entries."
+msgstr "最近のブログ投稿を表示します。"
+
+#: widgets/recent-comments.php:54
+msgid "posted"
+msgstr "投稿済"
+
+#: widgets/flickr-widget.php:79
+msgid "Number of images to display"
+msgstr "表示する画像数"
+
+#: widgets/recent-comments.php:54
+msgid "Comment to"
+msgstr "コメント先:"
+
+#: widgets/flickr-widget.php:73
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr "Flickr ID (<a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a> をお使いください)"
+
+#: widgets/recent-comments.php:6
+msgid "Displays recent comments with user avatars."
+msgstr "プロフィール写真付きの最新のコメントを表示します。"
+
+#: widgets/recent-comments.php:7
+msgid "Recent Comments"
+msgstr "最新のコメント"
+
+#: single.php:98
+msgid "Next post"
+msgstr "次の投稿へ"
+
+#: widgets/flickr-widget.php:67 widgets/recent-comments.php:109
+#: widgets/recent-posts.php:142
+msgid "Title"
+msgstr "タイトル"
+
+#: widgets/flickr-widget.php:7
+msgid "Flickr Widget"
+msgstr "Flickr ウィジェット"
+
+#: widgets/flickr-widget.php:6
+msgid "Displays your latest Flickr photos."
+msgstr "最新の Flickr の写真を表示します。"
+
+#: single.php:85
+msgid "Previous post"
+msgstr "過去の投稿へ"
+
+#: single.php:40
+msgid "Pages:"
+msgstr "ページ: "
+
+#: functions.php:412
+msgid "Accent Color"
+msgstr "アクセント色"
+
+#: searchform.php:2
+msgid "Search form"
+msgstr "検索フォーム"
+
+#: sidebar.php:27 widgets/recent-posts.php:7
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: functions.php:386
+msgid "Upload a logo to replace the default site title in the header."
+msgstr "ヘッダーのデフォルトのサイトタイトルを置き換えるロゴをアップロードしてください。"
+
+#: search.php:56
+msgid "No results. Try again, would you kindly?"
+msgstr "検索結果が見つかりませんでした。申し訳ありませんが、もう一度やり直してください。"
+
+#: image.php:30
+msgid "Resolution:"
+msgstr "解像度: "
+
+#: search.php:13 search.php:45
+msgid "Search results:"
+msgstr "検索結果: "
+
+#: functions.php:384 functions.php:420
+msgid "Logo"
+msgstr "ロゴ"
+
+#: functions.php:379
+msgid "Allows you to customize theme settings for Lovecraft."
+msgstr "Lovecraft のテーマ設定をカスタマイズすることができます。"
+
+#: functions.php:376
+msgid "Options for Lovecraft"
+msgstr "Lovecraft 設定"
+
+#: functions.php:342
+msgid "Reply"
+msgstr "返信"
+
+#: functions.php:335
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: functions.php:303
+msgid "Post author"
+msgstr "投稿者"
+
+#: functions.php:287 functions.php:329
+msgid "Edit"
+msgstr "編集"
+
+#: functions.php:287
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: functions.php:221
+msgid "Read More"
+msgstr "続きを読む"
+
+#: functions.php:110
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "このエリアのウィジェットはサイドバーに表示されます。"
+
+#: functions.php:119
+msgid "Widgets in this area will be shown in the left footer column."
+msgstr "このエリアのウィジェットはフッターの左側に表示されます。"
+
+#: functions.php:128
+msgid "Widgets in this area will be shown in the middle footer column."
+msgstr "このエリアのウィジェットはフッターの中央に表示されます。"
+
+#: functions.php:137
+msgid "Widgets in this area will be shown in the right footer column."
+msgstr "このエリアのウィジェットはフッターの右側に表示されます。"
+
+#: functions.php:135
+msgid "Footer Three"
+msgstr "フッター3"
+
+#: functions.php:126
+msgid "Footer Two"
+msgstr "フッター2"
+
+#: functions.php:117
+msgid "Footer One"
+msgstr "フッター1"
+
+#: functions.php:181 index.php:21
+msgid "Page %s of %s"
+msgstr "%s / %sページ"
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: full-width-page-template.php:59 image.php:52 page.php:51 single.php:118
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "クエリに一致する投稿はありませんでした。やり直してください。"
+
+#: footer.php:37
+msgid "Powered by"
+msgstr "Powered by "
+
+#: footer.php:37
+msgid "Theme by"
+msgstr "Theme by"
+
+#: content-aside.php:30 content.php:34 image.php:28 single.php:22
+msgid "On"
+msgstr "投稿日時:"
+
+#: content-aside.php:32 content.php:36 single.php:24
+msgid "In"
+msgstr "投稿先"
+
+#: content.php:25
+msgid "Sticky post"
+msgstr "固定投稿"
+
+#: content-aside.php:29 content.php:33 image.php:27 single.php:21
+msgid "By"
+msgstr "から"
+
+#: comments.php:133
+msgid "Website"
+msgstr "Web サイト"
+
+#: comments.php:127
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:121
+msgid "Name"
+msgstr "名前"
+
+#: comments.php:95
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:65 functions.php:191 single.php:83
+msgid "Previous"
+msgstr "前へ"
+
+#: comments.php:71 functions.php:201 single.php:96
+msgid "Next"
+msgstr "次へ"
+
+#: comments.php:47
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "ピンバック"
+
+#: comments.php:16 comments.php:113
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "コメント"
+
+#: comments.php:24
+msgid "Add Comment"
+msgstr "コメントする"
+
+#: archive.php:35 search.php:20
+msgid "(Page %s of %s)"
+msgstr "(%sページ / %sページ)"
+
+#: archive.php:27
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: archive.php:25
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: archive.php:22
+msgid "Tag: %s"
+msgstr "タグ: %s"
+
+#: archive.php:20
+msgid "Category: %s"
+msgstr "カテゴリー: %s"
+
+#: archive.php:18
+msgid "Year: %s"
+msgstr "年別: %s"
+
+#: archive.php:16
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "存在しないページを開こうとしたようです。削除されたか、移動されたか、あるいはもともと存在しない可能性もあります。以下のフォームから検索することができます。"
+
+#: archive.php:14
+msgid "Date: %s"
+msgstr "日別: %s"
+
+#: 404.php:15
+msgid "Error 404"
+msgstr "404エラー"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/lovecraft-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/lovecraft-wordpress-theme/"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"

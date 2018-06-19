@@ -1,0 +1,1332 @@
+# Translation of Themes - Appointment in Japanese
+# This file is distributed under the same license as the Themes - Appointment package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-12 19:47:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Appointment\n"
+
+#. Description of the plugin/theme
+msgid "Appointment WordPress Theme is a fully responsive and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, travel, photography, recipes, design, art, personal and any other creative websites and blogs. The theme is developed using Bootstrap 3 that makes it mobile and tablet friendly. It has various options in the WordPress Customizer to change the look of the theme. The theme customizer can be used to add your own custom header, favicon, logo, slides, services, callout and much more. In the premium version you can add different type of slides like video, aside, quote, status and standard, all of which have a different HTML look. There are a number of in-built widgets; sidebars with support for WPML, the Polylang translation WordPress plugin and Contact Form 7; a portfolio template, contact us, portfolio column layouts and many sections for business using the Homepage template. Appointment theme comes with various locales. Just navigate to Appearance / Customize to start customizing."
+msgstr ""
+"Appointment WordPress テーマは、完全レスポンシブで、素晴らしいブログや Web サイトを作成することができる、翻訳対応済みのテーマです。このテーマは、企業、法律事務所、旅行、写真、レシピ、デザイン、アート、個人およびその他の創造的な\n"
+" Web サイトやブログに適しています。テーマは Bootstrap 3 で開発されており、モバイルとタブレットに対応しています。WordPress カスタマイザーにさまざまなオプションがあり、テーマの外観を変更することが可能です。テーマカスタマイザーを使用して、独自のカスタムヘッダー、ファビコン、ロゴ、スライド、サービス、コールアウトなどを追加できます。プレミアム版では、ビデオ、アサイド、引用、ステータス、スタンダードといった異なるタイプのスライドを追加することができます。あらかじめ用意された豊富なウ​​ィジェット、WPML、Polylang などの翻訳プラグイン、Contact Form 7 に対応するサイドバー、ポートフォリオテンプレート、お問い合わせ、ポートフォリオカラムレイアウト、ホームページテンプレートで使用できるビジネス向けのたくさんのセクションが用意されています。Appointment テーマはさまざまな言語で利用できます。「外観」>「カスタマイズ」に移動して、カスタマイズを始めましょう。"
+
+#. Theme Name of the plugin/theme
+msgid "Appointment"
+msgstr "Appointment"
+
+#: functions/widgets/appointment_info_widget.php:86
+msgid "Link to get FontAwesome icon"
+msgstr "Font Awesome アイコンを入手するためのリンク"
+
+#: functions/customizer/customizer_theme_style.php:12
+msgid "Want to use the predefined theme colors seen below?"
+msgstr "以下の登録済みの配色を使用しますか ?"
+
+#: functions/customizer/customizer-slider.php:5
+msgid "Want a greater variety of slides, just like our premium version?"
+msgstr "プレミアムバージョンの豊富なスライドの選択肢をご希望ですか ?"
+
+#: functions/customizer/customizer-service.php:453
+msgid "Add more services. Get Pro."
+msgstr "もっとサービスを追加。Pro を購入。"
+
+#: functions/appointment-info/sections/github.php:71
+msgid "This section is often used to display Latest News, Announcements and Events type content."
+msgstr "このセクションは最新情報、お知らせ、イベントタイプのコンテンツを表示するのによく使用されます。"
+
+#: functions/appointment-info/sections/github.php:53
+msgid "You can display any number of Services on the Homepage, with thousands of FontAwesome icons available. You can also display a set of services on a separate page by using the service-related page templates."
+msgstr "ホームページでは、いくつでもサービスを表示することができます。何千もの　FontAwesome アイコンも使えます。サービス関連テンプレートを使えば別のページでサービス一式を表示することもできます。"
+
+#: functions/appointment-info/sections/github.php:34
+msgid "There are beautifully styled navigation/menus in the Appointment theme. You can make multi level menus, which means you can create sub menus."
+msgstr "Appointment テーマには、美しくデザインされたナビゲーション / メニューがあります。マルチレベルメニュー (サブメニュー) を作ることもできます。"
+
+#: functions/appointment-info/sections/github.php:11
+#: functions/appointment-info/welcome-screen.php:209
+msgid "Why Upgrade to Pro?"
+msgstr "Pro にアップグレードする理由"
+
+#: functions/appointment-info/sections/free_pro.php:75
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr "WPML を使って多言語サイトを作成可能です。"
+
+#: functions/appointment-info/sections/child-themes.php:171
+msgid "SHK Corporate - Current theme"
+msgstr "SHK Corporate - 現在のテーマ"
+
+#: functions/appointment-info/sections/child-themes.php:156
+#: functions/appointment-info/sections/child-themes.php:162
+msgid "SHK Corporate"
+msgstr "SHK Corporate"
+
+#: functions/appointment-info/sections/child-themes.php:154
+msgid "SHK Corporate Child Theme"
+msgstr "SHK Corporate の子テーマ"
+
+#: category.php:9
+msgid "Category Archive"
+msgstr "カテゴリーアーカイブ"
+
+#: functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR : 情報ウィジェット"
+
+#: functions/customizer/customizer-template.php:139
+msgid "Service page settings"
+msgstr "サービスページ設定"
+
+#: functions/customizer/customizer-template.php:92
+msgid "Blog page settings"
+msgstr "ブログページ設定"
+
+#: functions/customizer/customizer-template.php:66
+msgid "About Us page settings"
+msgstr "「私たちについて」ページ設定"
+
+#: functions/customizer/customizer-callout.php:80
+msgid "Background Image"
+msgstr "背景画像"
+
+#: functions/appointment-info/sections/free_pro.php:123
+msgid "Top Header, Slider [Unlimited Slides], Services [Unlimited], Callout, Portfolio [Unlimited Projects], Latest News, Clients, Testimonials and Custom Widgets"
+msgstr "トップヘッダー、スライダー [ 無制限のスライド ] 、サービス [ 無制限 ] 、コールアウト、ポートフォリオ [ 無制限プロジェクト ] 、最新情報、顧客、お客様の声とカスタムウィジェット"
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "フッター SNS アイコンを非表示"
+
+#: tag.php:12
+msgid "Tag Archive"
+msgstr "タグアーカイブ"
+
+#: search.php:11
+msgid "Search Results for"
+msgstr "検索結果"
+
+#: index-slider.php:24 index-slider.php:32 index-slider.php:40
+msgid "This is a very powerful theme that can be used for any type of business. The layout is clean and elegant."
+msgstr "あらゆるビジネスでお使いいただける、非常に強力なテーマです。クリーンでエレガントなレイアウト。"
+
+#: functions/widgets/sidebars.php:7 functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr "サイドバーウィジェットエリア"
+
+#: functions/customizer/customizer_theme_style.php:89
+msgid "Enable custom color skin"
+msgstr "カスタムカラースキンを有効化"
+
+#: functions/customizer/customizer-slider.php:124
+#: functions/customizer/customizer-testimonial.php:115
+msgid "Duration"
+msgstr "長さ"
+
+#: functions/customizer/customizer-testimonial.php:114
+msgid "If the transition-delay value is 2000 that means 2 seconds."
+msgstr "推移の長さを2000と設定すると、2秒を意味します。"
+
+#: functions/customizer/customizer-testimonial.php:91
+msgid "Animation"
+msgstr "アニメーション"
+
+#: functions/customizer/customizer-testimonial.php:19
+msgid "Homepage testimonial settings"
+msgstr "ホームページのお客様の声設定"
+
+#: functions/customizer/customizer-testimonial.php:5
+msgid "Want to add testimonials? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr ""
+"お客様の声を追加したいですか ? <a href='http://www.webriti.com/appointment' target='_blank'>Pro\n"
+" にアップグレード</a>"
+
+#: functions/customizer/customizer-template.php:569
+msgid "Hide contact callout from Contact page"
+msgstr "お問い合わせコールアウトをお問い合わせページで非表示"
+
+#: functions/customizer/customizer-template.php:357
+msgid "Section description"
+msgstr "セクション説明文"
+
+#: functions/customizer/customizer-template.php:341
+msgid "Section title"
+msgstr "セクションタイトル"
+
+#: functions/customizer/customizer-template.php:325
+msgid "Hide contact info section from Contact page"
+msgstr "お問い合わせ先セクションをお問い合わせページで非表示"
+
+#: functions/customizer/customizer-template.php:47
+msgid "Want to add contact callout information in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "問い合わせテンプレートにコールアウト情報を追加したいですか? <a href='http://www.webriti.com/appointment' target='_blank'>Pro にアップグレード</a>"
+
+#: functions/customizer/customizer-template.php:39
+msgid "Want to add contact address information in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "問い合わせテンプレートに問い合わせ先住所を追加したいですか ? <a href='http://www.webriti.com/appointment' target='_blank'>Pro にアップグレード</a>"
+
+#: functions/customizer/customizer-template.php:31
+msgid "Want to add contact form information and a contact map in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "問い合わせテンプレートに問い合わせ情報とマップを追加したいですか ? <a href='http://www.webriti.com/appointment' target='_blank'>Pro にアップグレード</a>"
+
+#: functions/customizer/customizer-template.php:24
+msgid "Want to use the blog meta settings? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "ブログメタ設定を使いたいですか ? <a href='http://www.webriti.com/appointment' target='_blank'>Pro にアップグレード</a>"
+
+#: functions/customizer/customizer-template.php:15
+msgid "Want to add more services, testimonials, clients, footer callouts in the Service template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "サービス、お客様の声、クライアント、サービステンプレートのフッターコールアウトを追加しますか ? <a href='http://www.webriti.com/appointment' target='_blank'>Pro にアップグレード</a>"
+
+#: functions/customizer/customizer-template.php:7
+msgid "Want to add a company About Us, Team, Client, footer, callout with the About template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "私たちについて、チーム、クライアント、フッター、 About テンプレートのコールアウトを追加しますか ? <a href='http://www.webriti.com/appointment' target='_blank'>Pro にアップグレード </a>"
+
+#: functions/customizer/customizer-slider.php:106
+#: functions/customizer/customizer-testimonial.php:93
+msgid "fade"
+msgstr "フェード"
+
+#: functions/customizer/customizer-slider.php:39
+msgid "Hide slider from homepage"
+msgstr "ホームページでスライダーを非表示"
+
+#: functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr "ホームページでサービスセクションを非表示"
+
+#: functions/customizer/customizer-project.php:21
+msgid "Homepage project settings"
+msgstr "ホームページのプロジェクト設定"
+
+#: functions/customizer/customizer-news.php:53
+msgid "Hide post meta from News section"
+msgstr "ニュースセクションで投稿メタデータを非表示"
+
+#: functions/customizer/customizer-news.php:34
+msgid "Hide News section from Homepage"
+msgstr "ホームページでニュースセクションを非表示"
+
+#: functions/customizer/customizer-header.php:316
+#: functions/customizer/customizer-header.php:329
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: functions/customizer/customizer-footer-callout.php:70
+#: functions/customizer/customizer-footer-callout.php:125
+#: functions/customizer/customizer-footer-callout.php:181
+#: functions/customizer/customizer-service.php:91
+#: functions/customizer/customizer-service.php:154
+#: functions/customizer/customizer-service.php:216
+#: functions/customizer/customizer-service.php:278
+#: functions/customizer/customizer-service.php:340
+#: functions/customizer/customizer-service.php:403
+#: functions/customizer/customizer-template.php:371
+#: functions/customizer/customizer-template.php:425
+#: functions/customizer/customizer-template.php:480
+msgid "Icon"
+msgstr "アイコン"
+
+#: functions/customizer/customizer-footer-callout.php:54
+msgid "Callout Header"
+msgstr "コールアウトのヘッダー"
+
+#: functions/customizer/customizer-footer-callout.php:47
+msgid "Stay in touch with us"
+msgstr "お問い合わせ先"
+
+#: functions/customizer/customizer-callout.php:148
+#: functions/customizer/customizer-callout.php:200
+#: functions/customizer/customizer-copyright.php:113
+#: functions/customizer/customizer-copyright.php:149
+#: functions/customizer/customizer-copyright.php:184
+#: functions/customizer/customizer-copyright.php:220
+#: functions/customizer/customizer-copyright.php:256
+#: functions/customizer/customizer-header.php:235
+#: functions/customizer/customizer-header.php:274
+#: functions/customizer/customizer-header.php:310
+#: functions/customizer/customizer-template.php:661
+msgid "Open link in new tab"
+msgstr "新しいタブで開く"
+
+#: functions/customizer/customizer-callout.php:132
+#: functions/customizer/customizer-callout.php:184
+#: functions/customizer/customizer-template.php:643
+msgid "Button Link"
+msgstr "ボタンリンク"
+
+#: functions/customizer/customizer-callout.php:108
+#: functions/customizer/customizer-callout.php:167
+#: functions/customizer/customizer-template.php:624
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+#: functions/customizer/customizer-callout.php:34
+msgid "Hide callout section from homepage"
+msgstr "ホームページでコールアウトセクションを非表示"
+
+#: functions/appointment-info/sections/github.php:98
+msgid "We provide good knowledgebase articles which will help you to create effective websites. You can visit these articles via our <a href='http://webriti.com/help/category/themes/appointment/' target='_blank'>Help Section</a>."
+msgstr "効果的な Web サイトを作るために有効な記事を<a href='http://webriti.com/help/category/themes/appointment/' target='_blank'>ヘルプセクション</a>で提供しています。"
+
+#: functions/appointment-info/sections/free_pro.php:136
+msgid "Webriti Support Forum"
+msgstr "Webriti サポートフォーラム"
+
+#: functions/appointment-info/sections/free_pro.php:125
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "私たちについて、サービス、ポートフォリオ、左または右サイドバーのブログ、全幅のブログ、全幅の固定ページ、お問い合わせページなど。"
+
+#: functions/appointment-info/sections/free_pro.php:107
+msgid "WordPress Support Forum"
+msgstr "WordPress サポートフォーラム"
+
+#: functions/appointment-info/sections/free_pro.php:96
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "ホームページテンプレートと全幅ページテンプレート"
+
+#: functions/appointment-info/sections/free_pro.php:95
+msgid "Slider [Unlimited Slides], Widget Area Below Slider, Services [6 Services], Callout Section, Latest News"
+msgstr "スライダー [ 無制限のスライド ] 、スライダー下のウィジェットエリア、サービス [6 サービス ] 、コールアウトセクション、最新情報"
+
+#: comments.php:75
+msgid "Logout"
+msgstr "ログアウト"
+
+#: functions/customizer/customizer-footer-callout.php:5
+msgid "Want to add footer callout content?<a href='http://www.webriti.com/appointment' target='_blank'> Upgrade to Pro</a>."
+msgstr "フッターコールアウトコンテンツを追加しますか ? <a href='http://www.webriti.com/appointment' target='_blank'> Pro にアップグレード</a>."
+
+#: functions/customizer/customizer-client.php:21
+#: functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr "セクションの見出し"
+
+#: comments.php:74
+msgid "Leave your message"
+msgstr "メッセージを残す"
+
+#: comments.php:64
+msgid "Name"
+msgstr "名前"
+
+#: comments.php:57
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "コメントを投稿するには<a href=\"%s\">ログイン</a>してください。"
+
+#: comments.php:24
+msgid "Posted on"
+msgstr "投稿日:"
+
+#: author.php:12
+msgid "Author Archive"
+msgstr "著者アーカイブ"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "404エラー"
+
+#: functions/customizer/customizer-emailcourse.php:29
+msgid "JOIN COURSE"
+msgstr "講座に参加"
+
+#: functions/customizer/customizer-emailcourse.php:25
+msgid "In this email course I deliver 4 highly actionable tips on how you can build a website which is trustworthy and which, in turn, brings more business to you."
+msgstr "このメール講座では、信頼性が高く、ビジネスを引き寄せる Web サイトを作成するための4つの行動ヒントを提供しています。"
+
+#: functions/customizer/customizer-emailcourse.php:23
+msgid "Think of your website as a hardworking salesman who works 24/7 and never asks for a raise!"
+msgstr "Web サイトは、賃上げ要求をせずに24時間年中無休で働く勤勉なセールスマンです。"
+
+#: functions/customizer/customizer-emailcourse.php:21
+msgid "To bring you more business."
+msgstr "さらなるビジネスを引き寄せるためです。"
+
+#: functions/customizer/customizer-emailcourse.php:20
+msgid "A website exists for one and ONLY one reason:"
+msgstr "Web サイトはたった1つの理由のために存在します:"
+
+#: functions/customizer/customizer-emailcourse.php:5
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr "信頼できる Web サイトを作成"
+
+#: functions/appointment-info/welcome-screen.php:211
+msgid "Child Themes"
+msgstr "子テーマ"
+
+#: functions/appointment-info/welcome-screen.php:210
+msgid "Free vs PRO"
+msgstr "無料 vs PRO"
+
+#: functions/appointment-info/welcome-screen.php:208
+msgid "Actions Required"
+msgstr "必須の操作"
+
+#: functions/appointment-info/welcome-screen.php:207
+msgid "Getting Started"
+msgstr "始めてみよう"
+
+#: functions/appointment-info/welcome-screen.php:137
+msgid "View Theme Info"
+msgstr "テーマ情報を見る"
+
+#: functions/appointment-info/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr "現時点で必要な操作はありません。"
+
+#: functions/appointment-info/welcome-screen.php:57
+msgid "Get started with Appointment Lite"
+msgstr "Appointment Lite をはじめる"
+
+#: functions/appointment-info/welcome-screen.php:56
+msgid "Welcome! Thank you for choosing Appointment Lite! To take full advantage of the best our theme can offer, please make sure you visit our %swelcome page%s."
+msgstr "Appointment Lite を選んでいただきありがとうございます！ 私たちのテーマを十分に活用いただくために、 %s ようこそページ %s もご覧ください。"
+
+#: functions/appointment-info/sections/github.php:117
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "テーマは有名な WPML プラグインにも対応しています。この対応により多言語サイトを作成することができます。"
+
+#: functions/appointment-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr "翻訳対応"
+
+#: functions/appointment-info/sections/github.php:107
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "カスタムウィジェットを使って Web サイトをとてもシンプルに構築できます。有効なサイドバーやコンテンツ内に入れるだけで可能です。"
+
+#: functions/appointment-info/sections/github.php:106
+msgid "Custom widget"
+msgstr "カスタムウィジェット"
+
+#: functions/appointment-info/sections/github.php:97
+msgid "Well Documented"
+msgstr "豊富な解説"
+
+#: functions/appointment-info/sections/github.php:89
+msgid "You will get 13 preset color schemes and you can even create your own favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr "あらかじめ13の配色が用意されているほか、カスタマイザーの「カスタムカラー設定」で好きな配色を作成できます。"
+
+#: functions/appointment-info/sections/github.php:79
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "お客様の声は信頼性を得るのに効果的な方法です。カルーセル効果でお客様の声を表示できます。"
+
+#: functions/appointment-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr "お客様の声の機能"
+
+#: functions/appointment-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr "最新情報のセクション"
+
+#: functions/appointment-info/sections/github.php:62
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "いくつでもプロジェクトを展示できます。このテーマでは、ポートフォリオの2、3、4カラムレイアウトテンプレートを使って2、3、4カラムグリッドレイアウトをオプションで作成できます。たくさんのプロジェクトを表示したい場合はこのテンプレートをおすすめします。1つの場所にすべてのポートフォリオカテゴリーを表示する、カテゴリー別ポートフォリオも作成できます。実際に、異なるポートフォリオをいくつも作成できるようにこのテーマはコード化されています。"
+
+#: functions/appointment-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr "ポートフォリオの機能"
+
+#: functions/appointment-info/sections/github.php:51
+msgid "Service Features"
+msgstr "サービスの機能"
+
+#: functions/appointment-info/sections/github.php:43
+msgid "You can create unlimited slides which you can control via the settings in Appearance >> Customize. The slider supports various post formats like Standard, Aside, Quote, Chat and Video."
+msgstr "設定の外観 >> カスタマイズで無制限のスライドを作成できます。スライダーは Standard, Aside, Quote, Chat and Video など複数の投稿フォーマットをサポートしています。"
+
+#: functions/appointment-info/sections/github.php:42
+msgid "Caption Slider"
+msgstr "キャプションスライダー"
+
+#: functions/appointment-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr "マルチレベルナビゲーション"
+
+#: functions/appointment-info/sections/github.php:25
+msgid "In the premium version you will get a top header sidebar area where you can use any widget - all the widgets are styled. We have created a number of widgets in the theme which you can use here. Specifically, use the Appointment Info Widget for showing your email ID, contact number or any other info of your choice."
+msgstr "プレミアムバージョンでは、上部ヘッダーサイドバーであらゆるウィジェットが使用でき、すべてデザインが入っています。たくさんの使用可能なウィジェットを作成しました。中でも、 Appointment 情報ウィジェットでは、メールアドレス ID、問い合わせ番号やその他あらゆる情報を表示することができます。"
+
+#: functions/appointment-info/sections/github.php:24
+msgid "Top Header Section"
+msgstr "上部ヘッダーセクション"
+
+#: functions/appointment-info/sections/github.php:17
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "この機能では URL のスラッグ名を変更することができ、 SEO フレンドリーな対応が可能です。"
+
+#: functions/appointment-info/sections/getting-started.php:64
+msgid "Your feedback is valuable to us"
+msgstr "フィードバックに感謝します。"
+
+#: functions/appointment-info/sections/getting-started.php:61
+msgid "Premium Theme Details"
+msgstr "プレミアムテーマの詳細"
+
+#: functions/appointment-info/sections/getting-started.php:52
+msgid "Premium Theme Support"
+msgstr "プレミアムテーマのサポート"
+
+#: functions/appointment-info/sections/getting-started.php:49
+msgid "Pro Demo"
+msgstr "Pro デモ"
+
+#: functions/appointment-info/sections/getting-started.php:46
+msgid "Lite Demo"
+msgstr "Lite デモ"
+
+#: functions/appointment-info/sections/getting-started.php:38
+msgid "Useful Links"
+msgstr "便利なリンク集"
+
+#: functions/appointment-info/sections/getting-started.php:22
+msgid "You can use this theme for any type of business. It is compatible with popular plugins like Contact Form 7, WPML, Polylang, etc. The theme has a predefined version of a Contact page, Services page, Portfolio, column layout pages, About Us and Blog layout pages, helping you to create an effective web presence."
+msgstr "このテーマはどの業種でも使用できます。また Contact Form 7、WPML、Polylang などの人気プラグインと互換性があります。このテーマのお問い合わせページ、サービスページ、ポートフォリオ、カラムレイアウトページ、私たちについて、ブログレイアウトページがあらかじめ用意されており、効果的な Web サイト作成に役立ちます。"
+
+#: functions/appointment-info/sections/getting-started.php:20
+msgid "This is a Business theme which is ideal for creating corporate, business, fashion and sports websites. The premium version has tons of features. The Homepage has a number of sections for showing sliders, your portfolio, user reviews, latest news, services, call to action and much more. Each section in the HomePage Template is well designed according to business requirements."
+msgstr "企業、ビジネス、ファッションやスポーツ関連の Web サイトを作成するのに便利なビジネステーマです。プレミアムバージョンではたくさんの機能があります。ホームページには、スライダー、ポートフォリオ、ユーザーレビュー、最新情報、サービス、登録を促す呼びかけなどを表示するセクションが数多くあります。ホームページテンプレート内の各セクションはビジネスに必要な要望を満たすよう構成されています。"
+
+#: functions/appointment-info/sections/getting-started.php:14
+msgid "About Appointment Theme"
+msgstr "Appointment テーマについて"
+
+#: functions/appointment-info/sections/free_pro.php:147
+msgid "Get Appointment PRO Now!"
+msgstr "Appointment PRO を今すぐ入手！"
+
+#: functions/appointment-info/sections/free_pro.php:119
+msgid "Appointment Pro"
+msgstr "Appointment Pro"
+
+#: functions/appointment-info/sections/free_pro.php:91
+msgid "Appointment Lite"
+msgstr "Appointment Lite"
+
+#: functions/appointment-info/sections/free_pro.php:80
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "24時間年中無休のサポートフォーラムを入手しましょう。"
+
+#: functions/appointment-info/sections/free_pro.php:79
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: functions/appointment-info/sections/free_pro.php:74
+msgid "WPML / Polylang Support"
+msgstr "WPML / Polylang 対応"
+
+#: functions/appointment-info/sections/free_pro.php:69
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "ユーザーからの意見をホームページとサービスページで表示"
+
+#: functions/appointment-info/sections/free_pro.php:68
+msgid "Testimonial / Review Section"
+msgstr "お客様の声 / レビューセクション"
+
+#: functions/appointment-info/sections/free_pro.php:64
+msgid "Show all your services in a single place."
+msgstr "すべてのサービスを 1 つの場所で表示"
+
+#: functions/appointment-info/sections/free_pro.php:63
+msgid "Services Page"
+msgstr "「サービス」ページ"
+
+#: functions/appointment-info/sections/free_pro.php:59
+msgid "Show team members, your clients and custom content added in the WordPress editor."
+msgstr "WordPress の編集画面でチームメンバー、取引先、カスタムコンテンツを追加して表示"
+
+#: functions/appointment-info/sections/free_pro.php:58
+msgid "About Us Page"
+msgstr "「私たちについて」ページ"
+
+#: functions/appointment-info/sections/free_pro.php:54
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "2カラム、3カラム、4カラムレイアウトを使ってプロジェクト / ポートフォリオコレクションを表示しましょう。カテゴリーごとにプロジェクト / ポートフォリオを表示することもできます。"
+
+#: functions/appointment-info/sections/free_pro.php:53
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: functions/appointment-info/sections/free_pro.php:48
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Google マップを使って店舗や事業所の場所を Web サイトに表示しましょう。"
+
+#: functions/appointment-info/sections/free_pro.php:47
+msgid "Google Map"
+msgstr "Google マップ"
+
+#: functions/appointment-info/sections/free_pro.php:43
+msgid "Enjoy using the 13 preset color schemes. You can also create custom skins without adding any code."
+msgstr "用意された13種類の配色をお楽しみください。コードの追加なしにカスタムスキンを作成できます。"
+
+#: functions/appointment-info/sections/free_pro.php:42
+#: functions/appointment-info/sections/github.php:88
+msgid "Multiple Color Schemes"
+msgstr "複数の配色"
+
+#: functions/appointment-info/sections/free_pro.php:38
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "この機能では  URL のカスタム投稿タイプのスラッグ名を変更できます。"
+
+#: functions/appointment-info/sections/free_pro.php:37
+#: functions/appointment-info/sections/github.php:16
+msgid "SEO Friendly URL"
+msgstr "SEO と親和性の高い URL"
+
+#: functions/appointment-info/sections/free_pro.php:33
+msgid "Contact Form Support"
+msgstr "コンタクトフォーム対応"
+
+#: functions/appointment-info/sections/free_pro.php:29
+msgid "Responsive layout in all devices"
+msgstr "すべてのデバイスでレスポンシブレイアウト"
+
+#: functions/appointment-info/sections/free_pro.php:28
+msgid "Mobile Friendly"
+msgstr "モバイルフレンドリー"
+
+#: functions/appointment-info/sections/free_pro.php:24
+msgid "Various Page Templates included in the Appointment Premium Theme"
+msgstr "Appointment プレミアムテーマに含まれたさまざまなページテンプレート"
+
+#: functions/appointment-info/sections/free_pro.php:23
+msgid "Page Templates Support"
+msgstr "ページテンプレートサポート"
+
+#: functions/appointment-info/sections/free_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "フロントページに多数のセクションがあります。"
+
+#: functions/appointment-info/sections/free_pro.php:18
+msgid "Frontpage Sections"
+msgstr "フロントページセクション"
+
+#: functions/appointment-info/sections/free_pro.php:13
+msgid "Features"
+msgstr "機能"
+
+#: functions/appointment-info/sections/child-themes.php:124
+msgid "Mandy"
+msgstr "Mandy"
+
+#: functions/appointment-info/sections/child-themes.php:107
+#: functions/appointment-info/sections/child-themes.php:139
+msgid "Appointment Red - Current theme"
+msgstr "Appointment Red - 現在のテーマ"
+
+#: functions/appointment-info/sections/child-themes.php:92
+msgid "Appointment Red"
+msgstr "Appointment Red"
+
+#: functions/appointment-info/sections/child-themes.php:90
+#: functions/appointment-info/sections/child-themes.php:122
+msgid "Appointment Red Child Theme"
+msgstr "Appointment Red 子テーマ"
+
+#: functions/appointment-info/sections/child-themes.php:75
+msgid "Appointment - Current theme"
+msgstr "Appointment - 現在のテーマ"
+
+#: functions/appointment-info/sections/child-themes.php:60
+msgid "Appointment Green"
+msgstr "Appointment Green"
+
+#: functions/appointment-info/sections/child-themes.php:58
+msgid "Appointment Green Child Theme"
+msgstr "Appointment Green 子テーマ"
+
+#: functions/appointment-info/sections/child-themes.php:45
+#: functions/appointment-info/sections/child-themes.php:76
+#: functions/appointment-info/sections/child-themes.php:108
+#: functions/appointment-info/sections/child-themes.php:140
+#: functions/appointment-info/sections/child-themes.php:172
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: functions/appointment-info/sections/child-themes.php:44
+msgid "Appointment Blue - Current theme"
+msgstr "Appointment Blue - 現在のテーマ"
+
+#: functions/appointment-info/sections/child-themes.php:38
+#: functions/appointment-info/sections/child-themes.php:69
+#: functions/appointment-info/sections/child-themes.php:101
+#: functions/appointment-info/sections/child-themes.php:133
+#: functions/appointment-info/sections/child-themes.php:165
+msgid "Live Preview"
+msgstr "ライブプレビュー"
+
+#: functions/appointment-info/sections/child-themes.php:37
+#: functions/appointment-info/sections/child-themes.php:68
+#: functions/appointment-info/sections/child-themes.php:100
+#: functions/appointment-info/sections/child-themes.php:132
+#: functions/appointment-info/sections/child-themes.php:164
+msgid "Install %s now"
+msgstr "今すぐ %s をインストール"
+
+#: functions/appointment-info/sections/child-themes.php:29
+msgid "Appointment Blue"
+msgstr "Appointment Blue"
+
+#: functions/appointment-info/sections/child-themes.php:18
+msgid "Below you will find a selection of Appointment child themes that will totally transform the look of your site."
+msgstr "以下では、Web サイトの見た目を圧倒的に変える Appointment の子テーマの数々をご覧ください。"
+
+#: functions/appointment-info/sections/child-themes.php:16
+msgid "Install & Use Appointment Child Themes"
+msgstr "Appointment の子テーマをインストール & 使用"
+
+#: functions/appointment-info/sections/actions-required.php:30
+#: functions/appointment-info/sections/actions-required.php:37
+#: functions/appointment-info/sections/child-themes.php:27
+#: functions/appointment-info/sections/getting-started.php:28
+msgid "Appointment Blue Child Theme"
+msgstr "Appointment Blue の子テーマ"
+
+#: functions/appointment-info/sections/actions-required.php:22
+msgid "Do you want to show the Homepage as a Front Page? You need to set the Homepage as a static page, as shown in the snapshot below. Now go to the Customizer and start configuring the sections in the Business Template. We hope you will find this theme useful."
+msgstr "ホームページをフロントページとして表示しますか ? その場合、下のスナップショットのようにホームページをフロントページとして設定する必要があります。ビジネステンプレートのカスタマイザーでセクションを設定してください。あなたにとってこのテーマが役に立ちますように。"
+
+#: functions/appointment-info/sections/actions-required.php:21
+msgid "2. Assign Homepage as Front Page Display"
+msgstr "2. フロントページの表示ににホームページを紐付ける"
+
+#: functions/appointment-info/sections/actions-required.php:14
+msgid "To set up an exact replica of the Homepage as shown in our demo, you have to create a WordPress page using the Home Page Template. The Business Template has all the sections like banners, services, portfolio, etc., which are ideal for any business site. Kindly refer to the snapshot."
+msgstr "デモとまったく同じホームページを設定するには、ホームページテンプレートを使ってWordPress ページを作成してください。ビジネステンプレートにはバナー、サービス、ポートフォリオなどビジネスサイトを作成するのに便利な多様なセクションがあります。スナップショットをご覧ください。"
+
+#: functions/appointment-info/sections/actions-required.php:13
+msgid "1. Creating Homepage using Home Page Template."
+msgstr "1. ホームページテンプレートを使ってホームページを作成"
+
+#: functions/customizer/customizer-template.php:127
+msgid "Hide post meta from blog pages, archive pages, categories, authors, etc."
+msgstr "ブログページ、アーカイブページ、カテゴリーページ、著者ページなどで投稿メタを隠す"
+
+#: functions/customizer/customizer-template.php:434
+msgid "Our office location"
+msgstr "オフィスの住所"
+
+#: functions/customizer/customizer-testimonial.php:13
+msgid "Testimonial settings"
+msgstr "お客様の声設定"
+
+#: functions/customizer/customizer-testimonial.php:46
+msgid "What our clients say:"
+msgstr "お客様の声"
+
+#: functions/customizer/customizer-template.php:350
+#: functions/customizer/customizer-testimonial.php:61
+msgid "Read what customers are saying:"
+msgstr "お客様からいただいた声をご紹介します"
+
+#: functions/customizer/customizer-testimonial.php:129
+msgid "Click here to add testimonial"
+msgstr "クリックしてお客様の声を追加"
+
+#: functions/customizer/customizer_theme_style.php:13
+#: functions/customizer/customizer_theme_style.php:54
+msgid "Predefined colors"
+msgstr "登録済み色"
+
+#: functions/customizer/customizer_theme_style.php:40
+msgid "Theme style setting"
+msgstr "テーマのスタイル設定"
+
+#: functions/customizer/customizer_theme_style.php:108
+msgid "Skin color"
+msgstr "スキンカラー"
+
+#: functions/customizer/customizer-client.php:5
+msgid "Want to add a client image and link?"
+msgstr "取引先の画像とリンクを追加しますか ?"
+
+#: functions/customizer/customizer-client.php:5
+#: functions/customizer/customizer-pro.php:20
+#: functions/customizer/customizer-project.php:6
+#: functions/customizer/customizer-slider.php:5
+#: functions/customizer/customizer_theme_style.php:12
+msgid "Upgrade to Pro"
+msgstr "PRO へアップグレード"
+
+#: functions/customizer/customizer-client.php:15
+msgid "Client settings"
+msgstr "取引先設定"
+
+#: functions/customizer/customizer-client.php:35
+#: functions/customizer/customizer-footer-callout.php:35
+#: functions/customizer/customizer-project.php:37
+#: functions/customizer/customizer-slider.php:157
+#: functions/customizer/customizer-template.php:82
+#: functions/customizer/customizer-template.php:107
+#: functions/customizer/customizer-template.php:156
+#: functions/customizer/customizer-template.php:185
+#: functions/customizer/customizer-template.php:305
+#: functions/customizer/customizer-template.php:547
+#: functions/customizer/customizer-testimonial.php:35
+msgid "Appointment upgrade"
+msgstr "Appointment アップグレード"
+
+#: functions/customizer/customizer-footer-callout.php:14
+#: functions/customizer/customizer-footer-callout.php:21
+msgid "Footer callout settings"
+msgstr "フッターのコールアウト設定"
+
+#: functions/customizer/customizer-footer-callout.php:134
+msgid "We are open Mon - Fri"
+msgstr "営業日: 月曜日から金曜日まで"
+
+#: functions/customizer/customizer-footer-callout.php:154
+msgid "Mon - Fri : 08.00 - 18.00"
+msgstr "月 - 金 : 08.00 - 18.00"
+
+#: functions/customizer/customizer-footer-callout.php:190
+#: functions/customizer/customizer-template.php:489
+msgid "Drop us a mail"
+msgstr "メールを送信"
+
+#: functions/customizer/customizer-project.php:6
+msgid "Want to add projects and categorization?"
+msgstr "プロジェクトとカテゴリー化を追加しますか ?"
+
+#: functions/customizer/customizer-project.php:15
+msgid "Project settings"
+msgstr "プロジェクト設定"
+
+#: functions/customizer/customizer-project.php:48
+msgid "Latest projects"
+msgstr "最新のプロジェクト"
+
+#: functions/customizer/customizer-project.php:105
+msgid "Click here to add project"
+msgstr "クリックしてプロジェクトを追加"
+
+#: functions/customizer/customizer-project.php:91
+msgid "Input number of projects"
+msgstr "プロジェクト件数を入力"
+
+#: functions/customizer/customizer-project.php:135
+msgid "Select project category archive column layout"
+msgstr "プロジェクトカテゴリーのアーカイブカラムレイアウトを選択"
+
+#: functions/customizer/customizer-template.php:59
+msgid "Template settings"
+msgstr "テンプレート設定"
+
+#: functions/customizer/customizer-template.php:169
+msgid "Contact page setting"
+msgstr "お問い合わせページ設定"
+
+#: functions/customizer/customizer-template.php:195
+msgid "Send us a message"
+msgstr "メッセージを送信"
+
+#: functions/customizer/customizer-template.php:202
+msgid "Contact form title"
+msgstr "コンタクトフォームタイトル"
+
+#: functions/customizer/customizer-template.php:220
+msgid "Hide Google Map"
+msgstr "Google マップを非表示"
+
+#: functions/customizer/customizer-template.php:230
+msgid "Find the address"
+msgstr "住所を探す"
+
+#: functions/customizer/customizer-template.php:237
+msgid "Contact Google Map title"
+msgstr "お問い合わせ Google マップタイトル"
+
+#: functions/customizer/customizer-template.php:253
+msgid "Google Map URL"
+msgstr "Google マップ URL"
+
+#: functions/customizer/customizer-template.php:267
+msgid "Click here to add Google Map"
+msgstr "クリックして Google マップを追加"
+
+#: functions/customizer/customizer-template.php:290
+msgid "Contact information settings"
+msgstr "お問い合わせ先設定"
+
+#: functions/customizer/customizer-template.php:334
+#: functions/customizer/customizer-template.php:579
+msgid "Contact info"
+msgstr "連絡先情報"
+
+#: functions/widgets/sidebars.php:35 functions/widgets/sidebars.php:37
+msgid "Right widget area below slider"
+msgstr "スライダー下の右ウィジェットエリア"
+
+#: functions/widgets/sidebars.php:44 functions/widgets/sidebars.php:46
+msgid "Center widget area below slider"
+msgstr "スライダー下の中央ウィジェットエリア"
+
+#: functions/widgets/sidebars.php:26 functions/widgets/sidebars.php:28
+msgid "Left widget area below slider"
+msgstr "スライダー下の左ウィジェットエリア"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "ホームページ"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "全幅"
+
+#: functions/customizer/customizer-callout.php:98
+#: functions/customizer/customizer-template.php:614 theme_setup_data.php:59
+msgid "Purchase Now"
+msgstr "今すぐ購入"
+
+#: single.php:17
+msgid "About the author"
+msgstr "著者について"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "検索"
+
+#: search.php:18
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "ご指定の検索条件に合う投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: search.php:16
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: index-slider.php:23 index-slider.php:31 index-slider.php:39
+msgid "Powerful Bootstrap Theme"
+msgstr "パワフルな Bootstrap テーマ"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: functions/widgets/sidebars.php:16 functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr "フッターウィジェットエリア"
+
+#: functions/customizer/customizer-callout.php:66
+#: functions/customizer/customizer-footer-callout.php:107
+#: functions/customizer/customizer-footer-callout.php:163
+#: functions/customizer/customizer-footer-callout.php:218
+#: functions/customizer/customizer-news.php:85
+#: functions/customizer/customizer-project.php:73
+#: functions/customizer/customizer-service.php:68
+#: functions/customizer/customizer-service.php:127
+#: functions/customizer/customizer-service.php:190
+#: functions/customizer/customizer-service.php:253
+#: functions/customizer/customizer-service.php:314
+#: functions/customizer/customizer-service.php:377
+#: functions/customizer/customizer-service.php:440
+#: functions/customizer/customizer-template.php:407
+#: functions/customizer/customizer-template.php:462
+#: functions/customizer/customizer-template.php:517
+#: functions/customizer/customizer-template.php:604
+#: functions/customizer/customizer-testimonial.php:68
+#: functions/widgets/appointment_info_widget.php:88
+msgid "Description"
+msgstr "説明文"
+
+#: functions/widgets/appointment_info_widget.php:84
+msgid "FontAwesome icon"
+msgstr "FontAwesome アイコン"
+
+#: functions/customizer/customizer-callout.php:51
+#: functions/customizer/customizer-footer-callout.php:88
+#: functions/customizer/customizer-footer-callout.php:144
+#: functions/customizer/customizer-footer-callout.php:199
+#: functions/customizer/customizer-news.php:70
+#: functions/customizer/customizer-project.php:55
+#: functions/customizer/customizer-service.php:51
+#: functions/customizer/customizer-service.php:109
+#: functions/customizer/customizer-service.php:172
+#: functions/customizer/customizer-service.php:235
+#: functions/customizer/customizer-service.php:296
+#: functions/customizer/customizer-service.php:358
+#: functions/customizer/customizer-service.php:421
+#: functions/customizer/customizer-template.php:389
+#: functions/customizer/customizer-template.php:443
+#: functions/customizer/customizer-template.php:498
+#: functions/customizer/customizer-template.php:586
+#: functions/customizer/customizer-testimonial.php:53
+#: functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "タイトル"
+
+#: functions/customizer/customizer-footer-callout.php:79
+#: functions/customizer/customizer-template.php:380
+#: functions/widgets/appointment_info_widget.php:42
+#: functions/widgets/appointment_info_widget.php:63
+#: functions/widgets/appointment_info_widget.php:82
+msgid "Have a question? Call us now"
+msgstr "お困りですか ? 今すぐお電話ください"
+
+#: functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr "Appointment テーマ情報ウィジェット"
+
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "ホーム"
+
+#: functions/customizer/customizer-slider.php:143
+msgid "Input number of slides"
+msgstr "スライドの枚数を入力"
+
+#: functions/customizer/customizer-slider.php:104
+msgid "Select slider animation"
+msgstr "スライダーアニメーションを選択"
+
+#: functions/customizer/customizer-slider.php:93
+#: functions/customizer/customizer-slider.php:106
+#: functions/customizer/customizer-testimonial.php:81
+#: functions/customizer/customizer-testimonial.php:93
+msgid "slide"
+msgstr "スライド"
+
+#: functions/customizer/customizer-slider.php:82
+msgid "Select category for slider"
+msgstr "スライダーのカテゴリーを選択"
+
+#: functions/customizer/customizer-slider.php:64
+msgid "Category slider"
+msgstr "カテゴリースライダー"
+
+#: functions/customizer/customizer-slider.php:63
+msgid "Demo slider"
+msgstr "スライダーデモ"
+
+#: functions/customizer/customizer-slider.php:60
+msgid "Select slider type"
+msgstr "スライダーの種類を選択"
+
+#: functions/customizer/customizer-slider.php:20
+msgid "Featured slider settings"
+msgstr "特集スライダー設定"
+
+#: functions/customizer/customizer-slider.php:14
+msgid "Slider settings"
+msgstr "スライダー設定"
+
+#: functions/customizer/customizer-service.php:461
+msgid "Add more services"
+msgstr "もっとサービスを追加"
+
+#: functions/customizer/customizer-service.php:384
+msgid "Service section six"
+msgstr "サービスセクション6"
+
+#: functions/customizer/customizer-service.php:322
+msgid "Service section five"
+msgstr "サービスセクション5"
+
+#: functions/customizer/customizer-service.php:261
+msgid "Service section four"
+msgstr "サービスセクション4"
+
+#: functions/customizer/customizer-service.php:197
+msgid "Service section three"
+msgstr "サービスセクション3"
+
+#: functions/customizer/customizer-service.php:135
+msgid "Service section two"
+msgstr "サービスセクション2"
+
+#: functions/customizer/customizer-service.php:100
+#: functions/customizer/customizer-service.php:163
+#: functions/customizer/customizer-service.php:226
+#: functions/customizer/customizer-service.php:287
+#: functions/customizer/customizer-service.php:349
+#: functions/customizer/customizer-service.php:412 theme_setup_data.php:36
+#: theme_setup_data.php:39 theme_setup_data.php:42 theme_setup_data.php:45
+#: theme_setup_data.php:48 theme_setup_data.php:51
+msgid "Easy to use"
+msgstr "使い方は簡単"
+
+#: functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr "サービスセクション1"
+
+#: functions/customizer/customizer-service.php:42 theme_setup_data.php:33
+msgid "Our services"
+msgstr "私たちのサービス"
+
+#: functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr "サービス設定"
+
+#: functions/customizer/customizer-pro.php:77
+msgid "The Pro version gives you more opportunities to enhance your site and business. In order to create an effective online presence, one must showcase their wide range of products, use a Contact Us enquiry form, create an effective About Us page, introduce the Team Members, etc. The Pro version offers all this. Buy the Pro version today and give us the chance to serve you better."
+msgstr "Pro バージョンは Web サイトやビジネスを強化する機会を提供します。オンライン上で効果を発揮するためには、幅広い商品の表示、問い合わせフォームの活用、印象的な会社概要ページ、チームメンバーの紹介などが必要です。 Pro バージョンではこれらをすべて提供しています。"
+
+#: functions/customizer/customizer-pro.php:73
+msgid "DOCUMENTATION"
+msgstr "ドキュメンテーション"
+
+#: functions/customizer/customizer-pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "レビューする"
+
+#: functions/customizer/customizer-pro.php:13
+msgid "UPGRADE TO PRO"
+msgstr "PRO へアップグレード"
+
+#: functions/customizer/customizer-news.php:122
+msgid "Select number of Posts"
+msgstr "投稿数を選択"
+
+#: functions/customizer/customizer-news.php:102
+msgid "Select category for Latest News"
+msgstr "最新ニュースのカテゴリーを選択"
+
+#: functions/customizer/customizer-news.php:63 theme_setup_data.php:69
+msgid "Latest news"
+msgstr "最新ニュース"
+
+#: functions/customizer/customizer-news.php:8
+#: functions/customizer/customizer-news.php:14
+msgid "Latest News settings"
+msgstr "最新ニュース設定"
+
+#: functions/customizer/customizer-header.php:166
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "ファビコンを選択 (推奨の幅と高さは 16×16 または 32×32)"
+
+#: functions/customizer/customizer-header.php:155
+msgid "Upload a favicon"
+msgstr "ファビコンをアップロード"
+
+#: functions/customizer/customizer-header.php:153
+msgid "Site Favicon"
+msgstr "サイトのファビコン"
+
+#: functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr "ロゴのテキストを表示"
+
+#: functions/customizer/customizer-header.php:123
+msgid "Enter Logo Height"
+msgstr "ロゴの高さを入力"
+
+#: functions/customizer/customizer-header.php:104
+msgid "Enter Logo Width"
+msgstr "ロゴの幅を入力"
+
+#: functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr "ロゴの有効化 / 無効化"
+
+#: functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr "150x150 のロゴ画像をアップロードします"
+
+#: functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr "ヘッダーロゴ設定"
+
+#: functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr "ヘッダーのテキスト"
+
+#: functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr "ヘッダーの見出し"
+
+#: functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr "カスタムヘッダー設定"
+
+#: functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr "ヘッダー設定"
+
+#: functions/customizer/customizer-copyright.php:239
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/customizer/customizer-copyright.php:203 functions.php:98
+msgid "GooglePlus URL"
+msgstr "GooglePlus URL"
+
+#: functions/customizer/customizer-copyright.php:167
+#: functions/customizer/customizer-header.php:292 functions.php:97
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-copyright.php:132
+#: functions/customizer/customizer-header.php:256 functions.php:96
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer/customizer-copyright.php:96
+#: functions/customizer/customizer-header.php:218 functions.php:95
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-header.php:196
+msgid "Hide Header Social icons"
+msgstr "フッターソーシャルアイコンを非表示"
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "ソーシャルリンク"
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "著作権テキストを非表示"
+
+#: functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr "著作権テキスト"
+
+#: functions/customizer/customizer-copyright.php:23 theme_setup_data.php:75
+msgid "No copyright information has been saved yet."
+msgstr "著作権情報はまだ保存されていません。"
+
+#: functions/customizer/customizer-copyright.php:7
+#: functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr "フッターの著作権設定"
+
+#: functions/customizer/customizer-callout.php:157 theme_setup_data.php:62
+msgid "Get in Touch"
+msgstr "お問い合わせ"
+
+#: functions/customizer/customizer-callout.php:116
+msgid "Button two"
+msgstr "ボタン2"
+
+#: functions/customizer/customizer-callout.php:91
+msgid "Button one"
+msgstr "ボタン1"
+
+#: functions/customizer/customizer-callout.php:44 theme_setup_data.php:56
+msgid "Want to say hey or find out more?"
+msgstr "もっと知りたいですか ?"
+
+#: functions/customizer/customizer-callout.php:9
+#: functions/customizer/customizer-callout.php:15
+#: functions/customizer/customizer-template.php:532
+msgid "Contact callout settings"
+msgstr "お問い合わせコールアウト設定"
+
+#: functions/breadcrumbs/breadcrumbs.php:102 functions.php:83
+msgid "Page"
+msgstr "ページ"
+
+#: functions/template-tag.php:23 index-news.php:47
+msgid "By"
+msgstr "著者:"
+
+#: content.php:12 functions.php:115 functions.php:132 index-slider.php:25
+#: index-slider.php:33 index-slider.php:41
+msgid "Read More"
+msgstr "続きを読む"
+
+#: comments.php:80
+msgid "Leave a Reply"
+msgstr "コメントを残す"
+
+#: comments.php:77
+msgid "Send Message"
+msgstr "メッセージを送信"
+
+#: comments.php:75
+msgid "Logout from this Account"
+msgstr "このアカウントをログアウトする"
+
+#: comments.php:75
+msgid "Logged in as"
+msgstr "ログイン中:"
+
+#: comments.php:65
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:40
+msgid "Comments so far"
+msgstr "件のコメント"
+
+#: comments.php:40
+msgid "1 Comment so far"
+msgstr "1件のコメント"
+
+#: comments.php:40
+msgid "No Comments so far"
+msgstr "コメントはありません"
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: comments.php:26
+msgid "Edit"
+msgstr "編集"
+
+#: comments.php:12
+msgid "Reply"
+msgstr "返信"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入力してください。"
+
+#: archive.php:16
+msgid "Blog Archive"
+msgstr "ブログアーカイブ"
+
+#: archive.php:14
+msgid "Yearly Archive"
+msgstr "年別アーカイブ"
+
+#: archive.php:12
+msgid "Monthly Archive"
+msgstr "月別アーカイブ"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "日別アーカイブ"
+
+#: 404.php:12
+msgid "Go Back"
+msgstr "戻る"
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "お探しのページは存在しません。"
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr "ページが見つかりませんでした"
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Author URI of the plugin/theme
+msgid "https://WordPress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/appointment-wordpress-theme-1/"
+msgstr "http://webriti.com/appointment-wordpress-theme-1/"
